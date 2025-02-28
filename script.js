@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Perreale un poco a Moisex y me lo pienso",
         "Venga si ganas una pelea de perreos con Moisex, alomejor te invito",
         "Si Gritas, JOSE LUIS CORNUDO DE MIERDA, alomejor Burillo te invita",
-        "Si le perreas a Burillo, el hijo de Paco, te invitamos",
+        "Si le perreas a Burillo, te invitamos",
         "Venga metete un Hidalgo, que todavia no estas haciendo mucho el gilipollas",
         "No has tenido suerte, pero ya sabes el que tiene mala suerte en el juego, tiene suerte en el amor. Mira a Chicho, ni una ni otra",
         "El que madruga, Dios lo ayuda, pues que mañana Dios ayude a tus padres",
