@@ -18,7 +18,6 @@ document.addEventListener("DOMContentLoaded", function() {
         "Venga metete un Hidalgo, que todavia no estas haciendo mucho el gilipollas",
         "No has tenido suerte, pero ya sabes el que tiene mala suerte en el juego, tiene suerte en el amor. Mira a Chicho, ni una ni otra",
         "El que madruga, Dios lo ayuda, pues que mañana Dios ayude a tus padres",
-        "Lo único que te va a tocar, va a ser el urólogo las pelotas, más Tinder y menos rascas"
     ];
     
     const randomIndex = Math.floor(Math.random() * phrases.length);
