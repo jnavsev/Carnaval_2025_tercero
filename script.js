@@ -1,6 +1,8 @@
 document.addEventListener("DOMContentLoaded", function() {
     const phrases = [
         "Sigue intentándolo, pero acabate este cubata, que esta noche se termina en la cabalgata de los niños ",
+        "Adivina la colonia de Perona y me la cuentad",
+        "Preguntale a Burillo si esta enchufado",
         "Venga que si pidele a otro un chupito",
         "No has tenido suerte, pero a ver si te encuentras a Pepe Quiñones diciendo Tonto",
         "Si vomitas no es perder, es hacer hueco es para mas cubatas.",
